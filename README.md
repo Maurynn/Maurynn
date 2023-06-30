@@ -1,6 +1,5 @@
 - 👋 Olá! me chamo Mauro Alves.
-- 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🎯 Focado no aprendizado da linguagem PYTHON🐍
+- 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💞️ Com Deus, tudo se torna possível 🙏🏻
 - 🔗 https://www.linkedin.com/in/maurosp
 
